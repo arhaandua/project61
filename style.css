@@ -1,0 +1,90 @@
+body {
+ text-align: center;
+ background: linear-gradient (green, blue);
+ background-repeat: no-repeat;
+}
+
+h1 {
+ text-shadow: 2px 2px #F8BBDO;
+ font-family: 'Yellowtail', cursive;
+}
+
+
+.img {
+ text-align: center;
+ padding-top: 150px;
+ padding-left: 9px;
+ padding-right: 9px;
+ padding-bottom: 5px;
+ border-radius: 50%;
+}
+
+.menu {
+ list-style: none;
+ font-family: sans-serif;
+ float: right;
+ position: absolute;
+ top: 10px;
+ right: 30px;
+ z-index: 10;
+ cursor: pointer;
+}
+
+.links {
+ text-align: center;
+ border: 10px solid #aaaaaa;
+ color: forestgreen;
+ float: left;
+ padding-top: 10px;
+ padding-left: 10px;
+ padding-right: 10px;
+ padding-bottom: 10px;
+ font-family: 'Yellowtail', cursive;
+ font-size: 20px;
+}
+
+.links:hover {
+ background-color: red;
+}
+
+.contact {
+ font-family: sans-serif;
+}
+
+# my favorite hobby {
+ background-image: linear-gradient(green, blue);
+
+ height: 100%;
+ width: 100%;
+}
+
+.collection {
+ padding-top: 150px;
+ padding-left: 9px;
+ padding-right: 9px;
+ padding-bottom: 5px;
+}
+
+html {
+ scroll-behavior: smooth;
+}
+
+.button {
+ background-color: aqua;
+}
+
+.img2 {
+ transition: transform .2s;
+ border: 10px solid #aaaaaa;
+}
+
+.img2:hover {
+ transform: scale(0.9);
+}
+
+#col {
+ padding-top: 200;
+}
+ul {
+  background-color:darkseagreen;
+}
